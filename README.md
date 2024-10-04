@@ -1,2 +1,29 @@
 # Act3_Ull_U_V_T_Django_5J
 urls, views y templates Django
+## Codigo
+- views.py
+- ![image](https://github.com/user-attachments/assets/56ec8e48-9883-41d6-8701-87748f938b53)
+- urls.py
+-  ![image](https://github.com/user-attachments/assets/876ffb7c-11c7-4641-b2ee-93852530b882)
+-  index.html
+- ![image](https://github.com/user-attachments/assets/98c95ca7-071b-49cb-90f4-375696c5d056)
+- Administradores.html
+- ![image](https://github.com/user-attachments/assets/9d94b4dd-9f96-447f-b951-6945070fd12b)
+- Afiliados.html
+- ![image](https://github.com/user-attachments/assets/b6497c3b-3ddb-4332-a901-bd0c60e79d4c)
+- Servicios.html
+- ![image](https://github.com/user-attachments/assets/3babce55-9091-4104-8809-69a66fa68fc0)
+- Productos.html
+- ![image](https://github.com/user-attachments/assets/c98c61a0-c2d3-4821-a44d-c716d7d99225)
+
+## Tablas
+- index
+- ![image](https://github.com/user-attachments/assets/8469e81d-d877-4244-b81f-33bc575e7108)
+- Administradores
+- ![image](https://github.com/user-attachments/assets/70066344-dbce-4746-a8fe-ce202a594699)
+- Afiliados
+- ![image](https://github.com/user-attachments/assets/a54e5a8e-26b8-4a98-9504-1de9260fa47b)
+- Servicios
+- ![image](https://github.com/user-attachments/assets/8b4a904b-a881-41e6-9239-e965ea05eb2e)
+- Productos
+- ![image](https://github.com/user-attachments/assets/7b848547-7f94-4904-8ccd-4883c064c0e7)
